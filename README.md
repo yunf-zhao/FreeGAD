@@ -1,7 +1,9 @@
+# FreeGAD
+ This repository is the official implementation of "FreeGAD: A Training-Free yet Effective Approach for Graph Anomaly Detection"
 
 # Dataset
-Some of the larger datasets have been uploaded to Google Drive and can be downloaded via the following link:
-https://drive.google.com/drive/folders/1XrXCnSzWrT0h0foQ1FxjBJOyAh5YfCEV?usp=sharing
+Some of the larger datasets have been uploaded to Google Drive and can be downloaded via the following [link](https://drive.google.com/drive/folders/1XrXCnSzWrT0h0foQ1FxjBJOyAh5YfCEV?usp=sharing):
+
 
 # Setup
 ```js/java/c#/text
