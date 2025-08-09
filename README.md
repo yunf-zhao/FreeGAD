@@ -16,17 +16,3 @@ pip install networkx==2.8.8
 pip uninstall dgl -y
 pip install dgl==0.9.0
 ```
-
-# Cite
-If you compare with, build on, or use aspects of this work, please cite the following:
-
-```js/java/c#/text
-@inproceedings{li2024noise,
-author = {Li, Shiyuan and Liu, Yixin and Chen, Qingfeng and Webb, Geoffrey I. and Pan, Shirui},
-title = {Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation},
-year = {2024},
-doi = {10.1145/3627673.3679758},
-booktitle = {Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
-pages = {1255–1265},
-}
-```
