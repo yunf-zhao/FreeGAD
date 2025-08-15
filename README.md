@@ -1,5 +1,5 @@
 # FreeGAD
- This repository is the official implementation of "FreeGAD: A Training-Free yet Effective Approach for Graph Anomaly Detection"
+ This repository is the official implementation of "[FreeGAD: A Training-Free yet Effective Approach for Graph Anomaly Detection](https://arxiv.org/abs/2508.10594)"
 
 # Dataset
 Some of the larger datasets have been uploaded to Google Drive and can be downloaded via the following [link](https://drive.google.com/drive/folders/1XrXCnSzWrT0h0foQ1FxjBJOyAh5YfCEV?usp=sharing)
@@ -17,9 +17,7 @@ pip install --no-index torch-cluster -f https://pytorch-geometric.com/whl/torch-
 pip install --no-index torch-spline-conv -f https://pytorch-geometric.com/whl/torch-2.1.2+cu121.html
 pip install torch-geometric==2.3.1
 
-pip uninstall networkx -y
 pip install networkx==2.8.8
-pip uninstall dgl -y
 pip install dgl==0.9.0
 ```
 
