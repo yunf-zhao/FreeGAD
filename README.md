@@ -22,3 +22,15 @@ pip install networkx==2.8.8
 pip uninstall dgl -y
 pip install dgl==0.9.0
 ```
+
+# Citation
+
+If you find this repository helpful for your work, please kindly cite:
+
+```bibtex
+@article{zhao2025freegad,
+  title={FreeGAD: A Training-Free yet Effective Approach for Graph Anomaly Detection},
+  author={Zhao, Yunfeng and Liu, Yixin and Li, Shiyuan and Zheng, Yu and Pan, Shirui},
+  journal={arXiv preprint arXiv:2508.10594},
+  year={2025}
+}
